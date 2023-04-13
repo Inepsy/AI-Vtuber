@@ -7,7 +7,7 @@ Edit the variables `EL_key` and `OAI_key` in `AI_vtuber.py`
 
 `EL_key` is the API key for [ElevenLabs](https://beta.elevenlabs.io/). Found in Profile Settings
 
-`OAI_key` is the API key for OpenAI. Found [here](https://platform.openai.com/account/api-keys)
+`Bard_key` is the API key for Bard. Found [here](https://bard.google.com/)
 
 Then run `AI_vtuber.py`
 

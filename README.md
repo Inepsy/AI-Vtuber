@@ -5,9 +5,9 @@ This code is designed to read chat messages from the text box and then utilize B
 
 Edit the variables `EL_key` and `API_key` in `AI_vtuber.py`
 
-`EL_key` is the API key for [ElevenLabs](https://beta.elevenlabs.io/). Found in Profile Settings
+`EL_key` is the api key for [ElevenLabs](https://beta.elevenlabs.io/). Found in Profile Settings
 
-`API_key` is the API key for Bard. Found [here](https://bard.google.com/)
+`api_key` is the API key for Bard. Found [here](https://bard.google.com/)
 
 Then run `AI_vtuber.py`
 

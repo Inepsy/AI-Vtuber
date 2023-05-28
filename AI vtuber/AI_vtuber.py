@@ -4,14 +4,14 @@ import win32com.client as wincl
 
 history_ids = ["", "", ""]
 api_keys = [
-    "VAhUKMq12cSDPx6RO9j01XNTMIarVNr0S6ErgUVHVeaLiwDVu3btSAI_pLcuqlHqYdjrAA.",
-    "UwjYyFFeY6G06k5aKhIumFRaEaG2GHXewYakzlAQEryGwAsElsSlkQjJUDVsPvsCLAsRXQ."
+    "Put bard key here.",
+    "put second bard key here."
 ]
 at_vars = [
     "ABi_lZiMCLkX08DeqRzeeujgNLqp%3A1681341296079",
     "ABi_lZh4X1Gg449HStgiwwXbp4bo%3A1680948998927"
 ]
-elevenlabs_api_keys = ["0ff4c5ad57d753f16e9f6c6d1bb844e0", ""] #elevenpabs API key here
+elevenlabs_api_keys = ["ElevenLabs API key here", ""]
 api_key_num = 0
 
 def main():

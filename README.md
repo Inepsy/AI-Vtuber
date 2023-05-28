@@ -3,7 +3,7 @@ This code is designed to read chat messages from the text box and then utilize B
 
 # Usage
 
-Edit the variables `EL_key` and `OAI_key` in `AI_vtuber.py`
+Edit the variables `EL_key` and `API_key` in `AI_vtuber.py`
 
 `EL_key` is the API key for [ElevenLabs](https://beta.elevenlabs.io/). Found in Profile Settings
 

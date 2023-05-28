@@ -5,7 +5,7 @@ import win32com.client as wincl
 history_ids = ["", "", ""]
 api_keys = [
     "Put bard key here.",
-    "put second bard key here."
+    "bard key here."
 ]
 at_vars = [
     "ABi_lZiMCLkX08DeqRzeeujgNLqp%3A1681341296079",
